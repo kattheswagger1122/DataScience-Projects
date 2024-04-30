@@ -55,14 +55,6 @@ Using HOG features for image classification and analyzing results.
 ### Conclusion
 Comparing the performance of SVM models in both industries and discussing overall observations.
 
-## Notebooks and Attachments
-- [Auto Industry Notebook (ipynb)](link-to-auto-notebook.ipynb)
-- [Auto Industry Notebook (html)](link-to-auto-notebook.html)
-- [Food Industry Notebook (ipynb)](link-to-food-notebook.ipynb)
-- [Food Industry Notebook (html)](link-to-food-notebook.html)
-
-For any questions or feedback, please contact [Your Company's Contact Information].
-
 Happy analyzing and investing!
 
 ---
