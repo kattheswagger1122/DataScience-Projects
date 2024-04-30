@@ -27,8 +27,6 @@ To better understand the identified clusters, we utilize dimensionality reductio
 ## Conclusion
 By leveraging data-driven techniques such as clustering and visualization, we aim to optimize our marketing strategies by tailoring advertisements to specific user segments. This targeted approach can lead to improved engagement and customer satisfaction, ultimately driving growth and retention in our music streaming service.
 
-For any inquiries or feedback, please contact [Your Company's Contact Information].
-
 Happy analyzing and streaming!
 
 ---
